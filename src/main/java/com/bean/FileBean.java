@@ -1,6 +1,9 @@
 package com.bean;
 
 public class FileBean {
+	/**
+	* File Bean POJO to replicate the File Instance 
+	**/
 	private String fileId;
 	private String fileName;
 	public String getFileId() {
